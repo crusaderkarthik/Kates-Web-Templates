@@ -1,4 +1,5 @@
 # Kates-Web-Templates
+I will be attaching the documentation soon here, Follow and stay tuned 😍<br/>
 <p>Corano is a Coronavirus Medical Prevention HTML Template. It is an Perfect HTML template for Corona Virus and all types of diseases. This Template also used for medical viruses, coronavirus, corona virus, covid-19, 2019 nCoV and any other type of medical health prevention. Corano Template is 100% responsive and looks stunning on all types of screens and devices. This template comes with One and Multi Page layouts with pages like prevention, prevention detail, symptoms, doctors, blog, shop layouts, FAQ&rsquo;s etc .</p>
 <p><strong>Features Overview:</strong></p>
 <ul>
